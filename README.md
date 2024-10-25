@@ -1,2 +1,2 @@
 # Viz-DodgersYankees-2024
-A little project to practice with Matplotlib
+The aim of this work is to put the Matplotlib library into practice.
